@@ -1,0 +1,144 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(234,253,252,0.1), rgba(234,253,252,0.1)), url("images/6627088_974.jpg");
+  background-position: 50% 24.91%;
+  min-height: 79px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 594px;
+  background-image: none;
+  width: 855px;
+  margin: 305px calc(((100% - 1140px) / 2) + 143px) 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin-left: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-7 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-9 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-10 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-passive-icon-1 {
+  display: none;
+  height: 24px;
+  width: 24px;
+}
+
+.u-section-1 .u-passive-icon-2 {
+  display: none;
+  height: 24px;
+  width: 24px;
+}
+
+.u-section-1 .u-passive-icon-3 {
+  display: none;
+  height: 24px;
+  width: 24px;
+}
+
+.u-section-1 .u-passive-icon-4 {
+  display: inline;
+  height: 24px;
+  width: 24px;
+}
+
+.u-section-1 .u-passive-icon-5 {
+  display: inline;
+  height: 24px;
+  width: 24px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 533px;
+  height: 541px;
+  object-position: 50% 0%;
+  margin: -309px 0 0 auto;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 65px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: calc(((100% - 940px) / 2) + 43px);
+    margin-right: calc(((100% - 940px) / 2) + 43px);
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 446px;
+    margin-top: -444px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 50px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 720px;
+    margin-left: calc(((100% - 720px) / 2));
+    margin-right: calc(((100% - 720px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 38px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+    margin-left: calc(((100% - 540px) / 2));
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 308px;
+    height: 393px;
+    margin-top: -295px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 11.32% 24.91%;
+    min-height: 24px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+    margin-left: calc(((100% - 340px) / 2));
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 188px;
+    height: 282px;
+    margin-top: -184px;
+  }
+}
